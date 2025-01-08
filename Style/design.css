@@ -1,1 +1,55 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+.text{
+    text-align: center;
+    color: ;
+}
+
+/* Nav Styles */
+nav{
+
+}
+
+nav div h3{
+    color: rgb(255, 255, 255);
+font-family: Merriweather;
+font-size: 30px;
+font-weight: 400;
+line-height: 38px;
+letter-spacing: 0%;
+position: absolute;
+width: 246px;
+height: 636px;
+left: 636px;
+right: -282px;
+top: 215px;
+bottom: -20px;
+}
+nav div h1{
+    color: rgb(255, 255, 255);
+font-family: Merriweather;
+font-size: 68px;
+font-weight: 900;
+line-height: 90px;
+letter-spacing: 0%;
+position: absolute;
+width: 620px;
+height: 180px;
+left: 470px;
+right: -470px;
+top: 276px;
+bottom: -215px;
+}
+nav>div{
+    background: linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url("../assets/images/Banner\ Image.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 570px;
+    width: 1254px;
+    background-position: center;
+}
+nav{
+    justify-content: center;
+    padding: 50px 140px;
+    align-items: center;
+}
